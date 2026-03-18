@@ -1,0 +1,9 @@
+[project]
+name = "Python Learning From Basic to Master"
+version = "0.1.0"
+description = "A simple Python Learning Playlist"
+authors = [
+    { name = "Shakir Ullah", email = "shakr.turk777@example.com" }
+]
+
+
