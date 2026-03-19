@@ -1,0 +1,35 @@
+# GIT and GITHUB Learning
+
+1. Repo 
+    Container that store all the file and code -- main project folder for all developers
+2. Git Init 
+    used to tell the Gitub to track this project
+    Make .git hidden folder that track all the changes 
+    Every Project start with this
+3. Git Config
+    tell the Git Who are you - Name - Email 
+    every time code commit it is autumaticaly tell to the Git
+4. Local vs Global Config
+    Global -- applies to all the repo on the github with - Name - Email 
+        used for personal laptop and github code
+    Local -- applies to just one specific repo on the github
+    local > Global --- If Local else Global
+5. Staging Area
+    git add <File_name> 
+    just add the file that u make the chafing and want to push 
+6. .gitignore
+    file that tell git to ignore these files - do't track them 
+7. viewing Commit History 
+    git log --- tell history 
+    git log --online ----> show commit in online each 
+    git log --stat -----> show simmery of file chnaged
+    git log -p ---> show diff with each file
+8. Branching
+    parallel version of your code
+    lets u make the changing without changing the .main branch code
+    git branch ---> show all branches
+    git branch <new brach name> ---> create new name
+    git checkout <Brach_name> ---> switch to new brach
+    git branch -m <old_name> <New_Name> ---> change branch name
+    
+
